@@ -33,3 +33,7 @@ git add .
 git commit -m "digite sua mensagem de commit aqui"
 git remote add origin https://github.com/usuario/rails-girls.git
 git push origin master
+
+**informações importantes github**
+https://gist.github.com/leocomelli/2545add34e4fec21ec16  
+
